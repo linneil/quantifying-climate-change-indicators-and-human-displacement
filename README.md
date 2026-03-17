@@ -2,7 +2,7 @@
 
 A data science research project that quantifies the relationship between climate change indicators and human displacement. The pipeline fetches real-world data from NASA, NOAA, and IDMC/UNHCR, runs time-series analysis and forecasting, and produces publication-quality figures and an interactive HTML report.
 
-View Live Report → (https://linneil.github.io/quantifying-climate-change-indicators-and-human-displacement/climate_migration_report.html)
+**[View Live Report →](https://linneil.github.io/quantifying-climate-change-indicators-and-human-displacement/climate_migration_report.html)**
 
 ![Summary Dashboard](figures/fig8_dashboard.png)
 
