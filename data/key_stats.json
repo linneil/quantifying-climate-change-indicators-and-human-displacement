@@ -1,0 +1,15 @@
+{
+  "temp_trend_per_decade": 0.16,
+  "latest_temp_anomaly": 1.19,
+  "co2_1959": 316.0,
+  "co2_latest": 427.4,
+  "co2_rise": 111.4,
+  "sl_satellite_rate": 3.82,
+  "sl_total_norm": 118.0,
+  "temp_2050_projection": 2.04,
+  "co2_2050_projection": 498.0,
+  "sl_2050_projection": 254.0,
+  "displacement_2050_projection": 101.0,
+  "r_co2_displacement": 0.503,
+  "r_temp_displacement": 0.339
+}
